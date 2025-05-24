@@ -47,7 +47,8 @@ admin.site.register(Movie,movieadmin)
 # OUTPUT
 
 
-![alt text](<Screenshot 2025-04-22 224501.png>)
+![alt text](![FWAD image 2](https://github.com/user-attachments/assets/e548fa92-05e5-44a0-a92b-172b7f0b6407)
+)
 
 
 # RESULT
